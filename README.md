@@ -1,9 +1,9 @@
 ## Oiê! Eu sou a Isabelly 👽
 
-- 🔭 Atualmente sou estudante de Educação Física
-- 🤔 Estou planejando uma mudança de carreira!
-- 💬 Pretendo fazer uma segunda graduação em ADS
-- 😄 Meus pronomes: Ela/Dela
+🔭 Atualmente sou estudante de Educação Física
+🤔 Estou planejando uma mudança de carreira!
+💬 Pretendo fazer uma segunda graduação em ADS
+😄 Pronomes: Ela/Dela
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Isa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

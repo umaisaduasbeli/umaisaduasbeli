@@ -2,8 +2,7 @@
 
 🔭 Atualmente sou estudante de Educação Física <br>
 🤔 Estou planejando uma mudança de carreira! <br>
-💬 Pretendo fazer uma segunda graduação em ADS <br>
-😄 Pronomes: Ela/Dela <br>
+💬 Pretendo fazer uma segunda graduação em Análise e Desenvolvimento de Sistemas
 
 
 ###
@@ -15,7 +14,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umaisaduasbeli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+<h2>🚀  Minhas Skills:</h2>
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Isa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,7 +22,7 @@
    <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-###
+<h2>🌎  Onde me encontrar:</h2>
 
 <div> 
   <a href="https://instagram.com/umaisaduasbeli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

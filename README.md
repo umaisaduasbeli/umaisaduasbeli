@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 Atualmente sou estudante de Educação Física<br>🤔 Estou planejando uma mudança de carreira!<br>💬 Pretendo fazer uma segunda graduação em Análise e Desenvolvimento de Sistemas</p>
+<p align="left">🔭 Atualmente sou estudante de Educação Física na UFSCar!<br>🤔 Estou planejando uma mudança de carreira!<br>💬 Para isso, decidi cursar Análise e Desenvolvimento de Sistemas, na UNINTER!</p>
 
 ###
 

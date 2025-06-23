@@ -2,12 +2,7 @@
 
 ###
 
-<h2 align="left">Sobre mim:</h2>
-
-###
-
-<p align="left">🔭 Atualmente sou estudante de Educação Física na UFSCar!<br>🤔 Estou planejando uma mudança de carreira!<br>💬 Para isso, decidi cursar Análise e Desenvolvimento de Sistemas, na UNINTER!</p>
-
+Estudante de Análise e Desenvolvimento de Sistemas, com formação anterior em Educação Física e experiências diversas em projetos educacionais, recreação, atendimento ao público e suporte administrativo. Possuo perfil colaborativo, responsável e com facilidade para aprender rapidamente novas ferramentas e tecnologias. Tenho foco em resultados, organização e boa comunicação interpessoal. <br> Busco uma oportunidade de estágio que me permita aplicar minhas habilidades práticas e técnicas, ao mesmo tempo em que continuo meu desenvolvimento profissional na área de tecnologia.
 ###
 
 <h2 align="left">🚀 Minhas Skills:</h2>

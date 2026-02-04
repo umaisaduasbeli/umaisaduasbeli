@@ -39,13 +39,6 @@ Estudante de Análise e Desenvolvimento de Sistemas, com formação anterior em 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umaisaduasbeli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=blue-green&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umaisaduasbeli&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://open.spotify.com/user/227ozu5el4spipyzphhfp3ikq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=227ozu5el4spipyzphhfp3ikq&count=5&unique=false" alt="Spotify recently played"  />
   </a>
